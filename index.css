@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    margin-left: 5%
+}
+
+body {
+    margin: 0;
+    background-color: #1C1C1C
+}
+
+.container {
+    background-color: #ECFDF5;
+    width: 600px;
+    height: 600px;
+    border-radius: 2%;
+    margin-left: 25%;
+    margin-top: 5%;
+    
+}
+
+#title-part1,
+#title-part2 {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 40px;
+    /* margin-left: 10% */
+
+
+}
+
+#title-part1 {
+    color: #2B283A;
+    margin-top: 15%;
+   
+
+}
+
+#title-part2 {
+    color: #10B981;
+    margin-top: -3%;
+
+}
+
+#description {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #6B7280;
+    /* margin-left: 9% */
+}
+#button button{
+    background-color: #10B981;
+    color: #FFFFFF;
+    border-style: none;
+    border-radius: 5%;
+    width: 200px;
+    height: 50px;
+    margin-top: 10%;
+
+
+}
+#horizontal-line{
+    margin-top: 5%
+}
+
+.suggested-passsword{
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-left: 5%;
+    /* justify-content: center; */
+    /* text-align: center; */
+    width: 100px;
+    height: 40px;
+    background-color: #273549;
+    border-radius: 5%;
+    color: #5DEF92
+}
+.text-style{
+    color: #5DEF92;
+    margin-top: 2%;
+    margin-left: 5%;
+
+
+}
